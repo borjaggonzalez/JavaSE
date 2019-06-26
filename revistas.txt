@@ -1,0 +1,3 @@
+Revista [titulo=dasdafa, isbn=asd123asd5, nPagina=2513, formato=true]
+Revista [titulo=qweqdd, isbn=456789132P, nPagina=652, formato=false]
+Revista [titulo=asdaca, isbn=789132456L, nPagina=23, formato=true]
